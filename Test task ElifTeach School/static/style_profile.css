@@ -1,0 +1,35 @@
+body {
+    background-image: url(../static/background_store.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.profile {
+   background-color: white;
+   margin-left: 380px;
+   margin-top: 170px;
+   padding: 25px;
+   border-radius: 15px;
+   display: inline-block;
+}
+
+.prof {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 170px;
+}
+
+.profile-data {
+    border: 4px solid black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.profile-button {
+    margin-left: 20px;
+}
+
+.profile-button a {
+    margin: 10px;
+}
+

@@ -1,0 +1,34 @@
+body {
+    background-image: url(../static/background_buy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.store-selection {
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 20px;
+    background-color: black;
+}
+
+a {
+    color: black;
+}
+
+h1 {
+    margin-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: rgb(248, 246, 246);
+    font-size: 80px;
+    font-weight: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    text-shadow: 1px 1px black;
+}
+
+.store {
+    margin-left: 330px;
+}
+
