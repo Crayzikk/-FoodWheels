@@ -1,0 +1,9 @@
+.background {
+    background-image: (url(../img/background_auth.jpg));
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: red;
+}
